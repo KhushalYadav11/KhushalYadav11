@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Khushal Yadav
-- 👀 I’m interested in Cybersecurity and Cloud Development
-- ⚡ My current strongholds include Python and C++
-- 🌱 I’m currently learning Networking and Security as well as trying to get a good grasp on Linux operating system and its command line
+- 👀 I’m interested in Cloud Development and Cybersecurity
+- 🌱 I’m currently learning advanced cloud technologies, focusing on optimizing AWS services. I’m exploring more sophisticated database management techniques with MySQL and enhancing my DevOps skills, particularly in CI/CD practices and integrating various tools for efficient development workflows.
 - 📫 How to reach me - My email is khushalyadav.720@gmail.com
 
 <!---
