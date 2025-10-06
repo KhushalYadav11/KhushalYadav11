@@ -1,5 +1,5 @@
-<h1 align="center">Yo , I'm Khushal Yadav</h1>
-<h3 align="center">Cloud Developer</h3>
+<h1 align="center">Yo , I'm Wild</h1>
+<h3 align="center">Jack-of-all, master of integration</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" alt="animated-image" width="300px"/>
@@ -10,8 +10,6 @@
 - All of my projects are available at [https://github.com/KhushalYadav11](https://github.com/KhushalYadav11)
 
 - Reach me at **khushalyadav.720@gmail.com**
-
-**To me, cloud platforms are like IKEA furniture :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
