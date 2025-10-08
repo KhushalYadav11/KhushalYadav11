@@ -1,5 +1,5 @@
 <h1 align="center">Yo , I'm Wild</h1>
-<h3 align="center">Jack-of-all, master of integration</h3>
+<h3 align="center">Jack-of-all, master of fun</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" alt="animated-image" width="300px"/>
