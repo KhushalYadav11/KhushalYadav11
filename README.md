@@ -1,11 +1,9 @@
 <h1 align="center">Yo , I'm Wild</h1>
-<h3 align="center">Jack-of-all, master of fun</h3>
+<h3 align="center">Jack-of-all, master-of-none (for now 😇)</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" alt="animated-image" width="300px"/>
 </p>
-
-- Currently learning **advanced cloud technologies and CI/CD practices**
 
 - All of my projects are available at [https://github.com/KhushalYadav11](https://github.com/KhushalYadav11)
 
