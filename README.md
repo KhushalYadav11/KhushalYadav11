@@ -2,7 +2,7 @@
 <h3 align="center">Professional bug farmer.<br/>Currently harvesting in production.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JSWu7FReUWYvVbOfEs/giphy.gif" alt="animated-image" width="300px"/>
+  <img src="https://tenor.com/sNwjMz7OGR5.gif" alt="animated-image" width="300px"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
